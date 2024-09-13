@@ -1,1 +1,2 @@
-# CPE-019
+# CPE-019 (Emerging Technologies 2 in CpE)
+This course provides a comprehensive introduction to data analysis and machine learning with a focus on the Internet of Things (IoT) and advanced analytics techniques. During the preliminary period, students learn the basics of data analysis and explore the role of IoT in data collection. The midterm period focuses on machine learning concepts, including perceptron models, neural networks, and deep learning, as well as practical skills like classification, regression, and model saving. The final period covers advanced topics like Convolutional Neural Networks (CNNs) and time series forecasting, culminating in the deployment of deep learning models for real-world applications.
